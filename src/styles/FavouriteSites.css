@@ -1,0 +1,15 @@
+li{
+    list-style-type: none;
+}
+a{
+    color: lightgreen;
+}
+a:visited{
+    color:  lightgreen;
+}
+a:hover{
+    color: red;
+}
+.FavouriteSites{
+    margin: 20px;
+}

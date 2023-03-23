@@ -1,0 +1,8 @@
+img:hover{
+    transition: 1s;
+    transform: scale(1.2);
+    /* padding: 20px; */
+}
+.Gallery h2{
+    padding: 20px;
+}
