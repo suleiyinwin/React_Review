@@ -5,6 +5,8 @@ import "./App.css"
 import "./styles/FavouriteSites.css"
 import "./styles/Profile.css"
 import "./styles/Gallery.css"
+import StateAssignmentOne from "./components/StateAssignmentOne"
+import StateAssignmentTwo from "./components/StateAssignmentTwo"
 
 function App() {
   return (
@@ -18,8 +20,8 @@ function App() {
       <div className="FavouriteSites">
         <Gallery/>
       </div>
-      
-      
+      <StateAssignmentOne />
+      <StateAssignmentTwo />
     </div>
     
   );
